@@ -15,7 +15,7 @@ import javax.swing.JPanel;
 
 public class Calculatrice extends JFrame {
 
-	private float pourcentage;
+	private float pourcentage; //Variable de pourcentage
 	private double chiffre = 0;  // Variable contenant les operandes
 	private String operateur;  // Variable contenant les opearateurs
 	private boolean calculEffectuer = false; 
